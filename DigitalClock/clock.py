@@ -64,7 +64,7 @@ tokyoTimeTxt=StringVar()
 
 dateLabel=Label(root,textvariable=dateTxt,font=fnt3,foreground='#669900',background='orange')
 label1=Label(root,text="Date",font=fnt2,foreground='#669900',background='white')
-label2=Label(root,text="India",font=fnt2,foreground='#669900',background='white')
+label2=Label(root,text="Delhi",font=fnt2,foreground='#669900',background='white')
 label3=Label(root,text="London",font=fnt2,foreground='#669900',background='white')
 label4=Label(root,text="New York",font=fnt2,foreground='#669900',background='white')
 label5=Label(root,text="Tokyo",font=fnt2,foreground='#669900',background='white')
